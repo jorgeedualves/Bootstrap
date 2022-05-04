@@ -1,7 +1,7 @@
 # Bootstrap <br/>
 ## Utilizando Bootstrap
 
-Aqui foi contruido um site com bootstrap para obter conhecimento sobre esse freamework!
+Aqui foi construido um site com Bootstrap para obter conhecimento de como usar esse framework!
 
 🔵Se trata de uma framework para desenvolvimento de sites responsivos;
 
